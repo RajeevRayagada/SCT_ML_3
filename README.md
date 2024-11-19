@@ -80,7 +80,7 @@ weighted avg       0.58      0.57      0.57      2000
 ```
 
 ### **Confusion Matrix:**  
-![Confusion Matrix]("C:\Users\rajee\SCT_ML_3\Confusion_Matrix.png")
+![Confusion Matrix](https://github.com/RajeevRayagada/SCT_ML_3/blob/main/Confusion_Matrix.png)
 
 The confusion matrix shows the model's performance on correctly classifying cats and dogs.
 
