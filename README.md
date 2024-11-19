@@ -80,7 +80,7 @@ weighted avg       0.58      0.57      0.57      2000
 ```
 
 ### **Confusion Matrix:**  
-![Confusion Matrix](results/confusion_matrix.png)
+![Confusion Matrix](Confusion_Matrix.png)
 
 The confusion matrix shows the model's performance on correctly classifying cats and dogs.
 
